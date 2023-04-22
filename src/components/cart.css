@@ -1,0 +1,8 @@
+.cart-container {
+  overflow: scroll;
+  width: 100%;
+  height: 100%;
+}
+.cart-detail {
+  min-height: 50px;
+}

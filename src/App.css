@@ -1,0 +1,9 @@
+.App {
+  max-width: 720px;
+  margin: 0 auto;
+  padding:0 0.5rem;
+  height: 100vh;
+  background-color: rgba(215, 211, 211, 0.603);
+  position: relative;
+  overflow-y: hidden;
+}

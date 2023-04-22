@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Stick to the Beet (VEGAN)",
+    "type": "special",
+    "price": 250,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG"
+  },
+  {
+    "id": "2",
+    "name": "Chocolate Almond Butter Toast ",
+    "type": "special",
+    "price": 300,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-6006676080730750113/2022-06-30/WhatsApp%20Image%202022-06-28%20at%201.25.53%20PM%20(1).jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Bostock French Toast",
+    "type": "special",
+    "price": 367,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-6006676080730750113/2022-06-30/WhatsApp%20Image%202022-06-24%20at%206.57.49%20PM%20(1).jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Ricotta and Corn Fritters in Indian ",
+    "type": "special",
+    "price": 489,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/5348981645833432913/2022-06-30/WhatsApp%20Image%202022-06-28%20at%201.25.56%20PM.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Peanut butter Iced Mocha",
+    "type": "beverages",
+    "price": 759,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-8587753848176065237/2022-03-22/compressjpgPeanut_Butter_Iced_Mocha_Easy-Resize.com%20(1)%20(1)%20(1)%20(1)%20(1)_39_11zon.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Basque CheeseCake ",
+    "type": "food",
+    "price": 199,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/6414389686547807827/2022-06-25/WhatsApp%20Image%202022-06-24%20at%207.03.48%20PM%20(2).jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Coco Lava ",
+    "type": "desserts",
+    "price": 480,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-8587753848176065237/2022-03-22/compressjpgLocococco_Easy-Resize.com_1_11zon.jpg"
+  },
+  {
+    "id": "8",
+    "name": "New Life ",
+    "type": "beverages",
+    "price": 397,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/7568746612692952776/2020-06-24/new%20life%20_Easy-Resize.com.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Butter Croissant ",
+    "type": "desserts",
+    "price": 350,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-7883846872083543077/2022-06-25/WhatsApp%20Image%202022-06-24%20at%207.03.48%20PM.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "Tofu Something ",
+    "type": "food",
+    "price": 299,
+    "quant": 0,
+    "image": "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/-8587753848176065237/2022-03-22/compressjpgUntitled%20design%20(11)_Easy-Resize.com_53_11zon.jpg"
+  }
+]
